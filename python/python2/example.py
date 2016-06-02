@@ -1,7 +1,6 @@
 from api import *
 
 token = 'PUT_YOUR_ADMIN_TOKEN_HERE' #put admin token you get from vericlouds before running the script. If you do not have one, sign up on https://vericlouds.com/product-signup-page/?product=secure_API to get one.
-token = 'FkFbRrrmtzJG3LjRMInI'
 
 #test credentials
 test_credentials = []

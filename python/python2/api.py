@@ -2,6 +2,7 @@ import bcrypt
 import urllib2
 import json
 
+version = '0.90'
 API_BASE_URL = 'https://www.vericlouds.com/private_search/api.php?'
 
 def private_preserving_compromise_detection(email, password, token):
