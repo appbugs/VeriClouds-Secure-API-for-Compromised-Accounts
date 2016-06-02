@@ -1,7 +1,7 @@
 <?php
 include "api.php";
 
-$token = $_GET['token'];
+$token = $_GET['token']; //put admin token on GET argument before running the script. If you do not have one, sign up on https://vericlouds.com/product-signup-page/?product=secure_API to get one.
 
 //test credentials
 $test_credentials = [
