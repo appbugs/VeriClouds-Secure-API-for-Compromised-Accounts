@@ -2,7 +2,7 @@
 include "bcrypt.php";
 define ('API_BASE_URL','https://www.vericlouds.com/private_search/api.php?');
 
-version = '0.90'
+$version = '0.90'; //change the number for every update
 $bcrypt = new Bcrypt();
 
 /**
